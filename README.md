@@ -63,7 +63,7 @@ A Go and xterm.js project with a virtual filesystem and rate-limited network dia
 | Organization | Role and impact |
 |---|---|
 | Codingo Forge | **Backend Developer Intern** · *Apr–Jun 2026*<br>Built Node.js/Express APIs for local-business storefront workflows, helped Dockerize services, and implemented role-based access with Clerk. |
-| [Cape Comorin Children School](https://capecomorinschool.com/) | **IT Operations Support Intern** · *Jun–Jul 2026*<br>Shipped school operations tools across Next.js, Flask, and FastAPI services, including searchable digitized records and staff-reviewed notices. |
+| [Cape Comorin Children School](https://capecomorinschool.com/) | **IT Operations Support Intern** · *Jun–Aug 2026*<br>Shipped school operations tools across Next.js, Flask, and FastAPI services, including searchable digitized records and staff-reviewed notices. |
 
 ## A few milestones
 
